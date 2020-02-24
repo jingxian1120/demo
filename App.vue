@@ -3,6 +3,8 @@
         onLaunch: function() {
 			console.info(12312332)
             console.log('App Launch');    
+			console.log("dnlanfdn")
+			console.log("dnalnfdlan")
             // #ifdef APP-PLUS
             // 检测升级
             uni.request({
