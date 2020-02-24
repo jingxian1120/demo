@@ -5,6 +5,9 @@
 			<view class="uni-btn-v">
 				<button type="default" @tap="actionSheetTap">弹出action sheet</button>
 			</view>
+			<view class="uni-active">
+				<button type="primary">按钮</button>
+			</view>
 		</view>
 	</view>
 </template>

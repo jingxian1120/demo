@@ -6,6 +6,7 @@
 				<text class="tip">扫码体验uni-app</text>
 			</view>
 			<view class="desc">
+				<text>dm;mda;fdm</text>
 				<text class="code">uni-app</text>
 				是一个使用 <text class="code">Vue.js</text> 开发跨平台应用的前端框架。
 			</view>
